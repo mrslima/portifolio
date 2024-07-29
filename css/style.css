@@ -2302,7 +2302,7 @@ textarea.w-input, textarea.w-select {
 
 .quadmark-image {
   border-radius: 20px;
-  width: 25vw;
+  width: 15vw;
   position: absolute;
   left: 50%;
 }
@@ -2828,7 +2828,7 @@ textarea.w-input, textarea.w-select {
 
 .harbour-image, .hester-image {
   border-radius: 20px;
-  width: 25vw;
+  width: 15vw;
   position: absolute;
   left: 50%;
 }
@@ -2915,7 +2915,7 @@ textarea.w-input, textarea.w-select {
 
 .orca-image, .nike-image {
   border-radius: 20px;
-  width: 25vw;
+  width: 15vw;
   position: absolute;
   left: 50%;
 }
