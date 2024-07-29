@@ -53,7 +53,8 @@ footer {
 }
 
 .logo img {
-  width: 150px;
+  width: 75px;
+  margin: 20px 0 0 20px;
   filter: invert(97%) sepia(97%) saturate(0%) hue-rotate(13deg) brightness(103%) contrast(100%);
 }
 
