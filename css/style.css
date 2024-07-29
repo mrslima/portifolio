@@ -1,6 +1,6 @@
 @font-face {
   font-family: "Yamaka";
-  src: url("/fonts/Yamaka.otf");
+  src: url("../fonts/Yamaka.otf");
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Rubik+Glitch+Pop&display=swap');
