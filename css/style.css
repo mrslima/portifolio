@@ -3992,7 +3992,7 @@ ul:not([data-enhanced]) article::after {
 }
 
 article {
-  color: hsl(0 0% 80%);
+  color: hsl(0 0% 100%);
   padding: 1rem;
   display: grid;
   gap: 0.5rem;
